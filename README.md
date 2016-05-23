@@ -1,2 +1,2 @@
 # hello-world
-# my first code
+my first code
